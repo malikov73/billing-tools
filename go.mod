@@ -1,4 +1,4 @@
-module billing-tools
+module github.com/malikov73/billing-tools
 
 go 1.22.5
 
